@@ -24,10 +24,10 @@
             "subtitle": "LBox",
             "developerName": "Lolendor",
             "screenshotURLs": [
-                "hhttps://lolendor.github.io/LBox/screenshots/store.png",
-                "hhttps://lolendor.github.io/LBox/screenshots/app_details.png",
-                "hhttps://lolendor.github.io/LBox/screenshots/downloads.png",
-                "hhttps://lolendor.github.io/LBox/screenshots/apps.png"
+                "https://lolendor.github.io/LBox/screenshots/store.png",
+                "https://lolendor.github.io/LBox/screenshots/app_details.png",
+                "https://lolendor.github.io/LBox/screenshots/downloads.png",
+                "https://lolendor.github.io/LBox/screenshots/apps.png"
             ]
         }
     ]
