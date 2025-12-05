@@ -1,14 +1,14 @@
 {
     "name": "Lolendor's Repo",
     "identifier": "org.lolendor.repo",
-    "sourceURL": "https://lolendor.github.io/LBox/repo.json",
-    "iconURL": "https://lolendor.github.io/LBox/LRepo.png",
-    "sourceImage": "https://lolendor.github.io/LBox/LRepo.png",
+    "sourceURL": "https://lolendor.github.io/LRepo/repo.json",
+    "iconURL": "https://lolendor.github.io/LRepo/LRepo.png",
+    "sourceImage": "https://lolendor.github.io/LRepo/LRepo.png",
     "website": "https://github.com/Lolendor/LRepo",
     "subtitle": "IPA made by Lolendor",
     "META": {
         "repoName": "Lolendor's Repo",
-        "repoIcon": "https://lolendor.github.io/LBox/LRepo.png"
+        "repoIcon": "https://lolendor.github.io/LRepo/LRepo.png"
     },
     "apps": [
         {
