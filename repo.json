@@ -1,0 +1,34 @@
+{
+    "name": "Lolendor's Repo",
+    "identifier": "org.lolendor.repo",
+    "sourceURL": "https://lolendor.github.io/LBox/repo.json",
+    "iconURL": "https://lolendor.github.io/LBox/LRepo.png",
+    "sourceImage": "https://lolendor.github.io/LBox/LRepo.png",
+    "website": "https://github.com/Lolendor/LRepo",
+    "subtitle": "IPA made by Lolendor",
+    "META": {
+        "repoName": "Lolendor's Repo",
+        "repoIcon": "https://lolendor.github.io/LBox/LRepo.png"
+    },
+    "apps": [
+        {
+            "name": "LBox",
+            "type": 1,
+            "bundleIdentifier": "BebraGanes.LBox",
+            "version": "1.0",
+            "versionDate": "2025-12-5",
+            "size": 542635,
+            "downloadURL": "https://github.com/Lolendor/LBox/releases/download/build-2/LBox.ipa",
+            "localizedDescription": "A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.",
+            "iconURL": "https://github.com/Lolendor/LBox/raw/main/screenshots/lbox_icon.jpg",
+            "subtitle": "LBox",
+            "developerName": "Lolendor",
+            "screenshotURLs": [
+                "https://github.com/Lolendor/LBox/blob/main/screenshots/store.png",
+                "https://github.com/Lolendor/LBox/blob/main/screenshots/app_details.png",
+                "https://github.com/Lolendor/LBox/blob/main/screenshots/downloads.png",
+                "https://github.com/Lolendor/LBox/blob/main/screenshots/apps.png"
+            ]
+        }
+    ]
+}
