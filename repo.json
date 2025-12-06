@@ -16,7 +16,7 @@
             "type": 1,
             "bundleIdentifier": "BebraGames.LBox",
             "version": "1.1",
-            "versionDate": "2025-12-5",
+            "versionDate": "2025-12-6",
             "size": 542635,
             "downloadURL": "https://github.com/Lolendor/LBox/releases/download/build-3/LBox.ipa",
             "localizedDescription": "A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.",
