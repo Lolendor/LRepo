@@ -29,6 +29,25 @@
                 "https://lolendor.github.io/LBox/screenshots/downloads.png",
                 "https://lolendor.github.io/LBox/screenshots/apps.png"
             ]
+        },
+        {
+            "name": "LBox",
+            "type": 1,
+            "bundleIdentifier": "BebraGames.LBox",
+            "version": "1.0",
+            "versionDate": "2025-12-5",
+            "size": 542635,
+            "downloadURL": "https://github.com/Lolendor/LBox/releases/download/build-2/LBox.ipa",
+            "localizedDescription": "A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.",
+            "iconURL": "https://lolendor.github.io/LBox/screenshots/lbox_icon.jpg",
+            "subtitle": "LBox",
+            "developerName": "Lolendor",
+            "screenshotURLs": [
+                "https://lolendor.github.io/LBox/screenshots/store.png",
+                "https://lolendor.github.io/LBox/screenshots/app_details.png",
+                "https://lolendor.github.io/LBox/screenshots/downloads.png",
+                "https://lolendor.github.io/LBox/screenshots/apps.png"
+            ]
         }
     ]
 }
