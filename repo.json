@@ -16,7 +16,7 @@
             "type": 1,
             "bundleIdentifier": "Lolendor.LBox",
             "version": "1.2",
-            "versionDate": "2025-12-6",
+            "versionDate": "2025-12-8",
             "size": 614672,
             "downloadURL": "https://github.com/Lolendor/LBox/releases/download/v1.2/LBox.ipa",
             "localizedDescription": "A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.",
