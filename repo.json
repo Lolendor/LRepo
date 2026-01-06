@@ -29,6 +29,19 @@
                 "https://lolendor.github.io/LBox/screenshots/downloads.png",
                 "https://lolendor.github.io/LBox/screenshots/apps.png"
             ]
+        },
+        {
+            "name": "EeveeSpotifyReborn",
+            "type": 1,
+            "bundleIdentifier": "com.spotify.client",
+            "version": "9.1.6",
+            "versionDate": "2026-01-06",
+            "size": 614672,
+            "downloadURL": "https://github.com/Lolendorka/EeveeSpotifyReborn/releases/download/untagged-ec6b20fad216c5137828/EeveeSpotify-patched.ipa",
+            "localizedDescription": "Injected with Premium",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+            "developerName": "",
+            "screenshotURLs": []
         }
     ]
 }
